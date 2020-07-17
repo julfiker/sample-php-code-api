@@ -1,0 +1,2 @@
+alias art="php artisan"
+alias compo="composer dump-autoload -o"
